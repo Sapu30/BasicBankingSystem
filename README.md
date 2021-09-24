@@ -14,5 +14,5 @@ So, I created a simple Dynamic website used to transfer virtual money b/w multip
 &nbsp;&nbsp;&nbsp; •	User Table has basic fields such as name, email, account no. and amount/current balance.  <br>
 &nbsp;&nbsp;&nbsp; •	Transaction History Table records all transactions happened b/w multiple users with their date & time.  <br>
 
-<b><u>Flow of the website:;</u></b>&nbsp;Home Page -> Create User -> Transfer Money -> View Transaction History  <br>
+<b><u>Flow of the website: </u></b>&nbsp;&nbsp; Home Page -> Create User -> Transfer Money -> View Transaction History  <br>
 The Transfer Money page contains a table having 3 fields Sender name (account no.), Receiver name (account no.) and the amount of money sender sends to the receiver.
