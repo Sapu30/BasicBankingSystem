@@ -1,6 +1,7 @@
 # BasicBankingSystem
 
-I was supposed to create a Basic Banking System for The Sparks Foundation as an (Web Development & Designing) internship project.<br>
+I was supposed to create a Basic Banking System for The Sparks Foundation as an (Web Development & Designing) internship project.
+
 So, I created a simple Dynamic website used to transfer virtual money b/w multiple users and also record the banking transactions.
 
 <b><u>Tech Stack:</u></b> <br>
@@ -15,4 +16,5 @@ So, I created a simple Dynamic website used to transfer virtual money b/w multip
 &nbsp;&nbsp;&nbsp; •	Transaction History Table records all transactions happened b/w multiple users with their date & time.  <br>
 
 <b><u>Flow of the website: </u></b>&nbsp;&nbsp; Home Page -> Create User -> Transfer Money -> View Transaction History  <br>
+
 The Transfer Money page contains a table having 3 fields Sender name (account no.), Receiver name (account no.) and the amount of money sender sends to the receiver.
