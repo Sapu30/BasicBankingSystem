@@ -1,4 +1,4 @@
-# BasicBankingSystem       <h3>vediohttps://www.youtube.com/watch?v=eqAjSncGgv8</h3>
+# BasicBankingSystem       <h3>vedio link : https://www.youtube.com/watch?v=eqAjSncGgv8</h3>
 
 I was supposed to create a Basic Banking System for The Sparks Foundation as an (Web Development & Designing) internship project.
 
@@ -20,6 +20,6 @@ So, I created a simple Dynamic website used to transfer virtual money b/w multip
 The Transfer Money page contains a table having 3 fields Sender name (account no.), Receiver name (account no.) and the amount of money sender sends to the receiver.
 
 
-Vedio link of project is given below :
-https://youtu.be/eqAjSncGgv8
-![Demo](https://github.com/rohan20/flutter-chat-app/blob/master/screenshots/flutter_chat_app_gif.gif)
+#Vedio link of project is given below :
+#https://youtu.be/eqAjSncGgv8
+
