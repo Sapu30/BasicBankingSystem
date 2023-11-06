@@ -18,8 +18,3 @@ So, I created a simple Dynamic website used to transfer virtual money b/w multip
 <b><u>Flow of the website: </u></b>&nbsp;&nbsp; Home Page -> Create User -> Transfer Money -> View Transaction History  <br>
 
 The Transfer Money page contains a table having 3 fields Sender name (account no.), Receiver name (account no.) and the amount of money sender sends to the receiver.
-
-
-#Vedio link of project is given below :
-#https://youtu.be/eqAjSncGgv8
-
