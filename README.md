@@ -21,7 +21,7 @@ The Transfer Money page contains a table having 3 fields Sender name (account no
 
 <h2>vedio link : https://www.youtube.com/watch?v=eqAjSncGgv8</h2>
 
-<img class="" src="img/Home.png" width="700" height="350" />
-<img class="" src="img/CreateUser.png" width="700" height="350" />
-<img class="" src="img/MoneyTransfer.png" width="700" height="350" />
-<img class="" src="img/Transaction.png" width="700" height="350" />
+<img class="" src="img/Home.png" width="700" height="400" />
+<img class="" src="img/CreateUser.png" width="700" height="400" />
+<img class="" src="img/MoneyTransfer.png" width="700" height="400" />
+<img class="" src="img/Transaction.png" width="700" height="400" />
